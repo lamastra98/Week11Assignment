@@ -4,7 +4,7 @@
 <head>
     <title>My Guitar Shop</title>
     <link rel="stylesheet" type="text/css"
-          href="/ex_starts/ch05_ex1/main.css">
+          href="https://web.njit.edu/~agl24/IS218/week11Assignment/week11/main.css">
 </head>
 
 <!-- the body section -->
